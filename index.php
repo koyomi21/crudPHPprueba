@@ -1,3 +1,4 @@
+
 <?php
 error_reporting(0);
 include './CONEXION.php';
@@ -82,7 +83,7 @@ if ($boton == 'ELIMINAR') {
         <form method="post" action="">
             <table width="500" border="1">
                 <tr>    
-                    <td>Ingrese EMPLEADO123</td>
+                    <td>Ingrese Pluto</td>
                     <td><input  type="text" name="codigoemple" value="<?php echo $ID_Emple; ?>" /></td>
                     <td><input  style="background-color:orange" type="submit" value="BUSCAR" name="actualizar" /></td>
                 </tr>      
