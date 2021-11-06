@@ -74,7 +74,7 @@ if ($boton == 'ELIMINAR') {
     <body style="background-color:Powderblue">
     <center>
         <header align="center">
-            <h2>ACTUALIZACION DE EMPLEADOS DE LA EMPRESA SUMMERCODE</h2>
+            <h2>ACTUALIZACION DE EMPLEADOS DE LA EMPRESA SUMMERCODE by babypluto</h2>
 
             <img src="Marca_SUMMER/logo.PNG">
           
@@ -83,7 +83,7 @@ if ($boton == 'ELIMINAR') {
         <form method="post" action="">
             <table width="500" border="1">
                 <tr>    
-                    <td>Ingrese nuevo Empleado</td>
+                    <td>Ingrese Nuevo Usuario</td>
                     <td><input  type="text" name="codigoemple" value="<?php echo $ID_Emple; ?>" /></td>
                     <td><input  style="background-color:orange" type="submit" value="BUSCAR" name="actualizar" /></td>
                 </tr>      
