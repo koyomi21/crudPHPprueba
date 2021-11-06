@@ -74,7 +74,7 @@ if ($boton == 'ELIMINAR') {
     <body style="background-color:Powderblue">
     <center>
         <header align="center">
-            <h2>ACTUALIZACION DE EMPLEADOS DE LA EMPRESA SUMMERCODE by babypluto</h2>
+            <h2>ACTUALIZACION DE EMPLEADOS DE LA EMPRESA SUMMERCODE by pacho gmezo</h2>
 
             <img src="Marca_SUMMER/logo.PNG">
           
